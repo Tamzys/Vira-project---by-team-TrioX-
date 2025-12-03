@@ -21,7 +21,7 @@ VIRA is powered by a small, modular agent architecture:
 - **Calculator Agent** – Extracts and evaluates arithmetic expressions  
 - **UI Layer** – Displays messages in a neat bubble-style interface  
 
-Together, they create a simple but capable assistant that feels personal and interactive without relying on cloud-based AI.
+Together, we created a simple but capable assistant that feels personal and interactive without relying on cloud-based AI.
 
 ### Why This Project?
 VIRA was created for the Google AI Intensive (Kaggle) competition to demonstrate a practical, easy-to-understand, multi-agent system. It isn’t perfect — and it doesn’t try to be. Instead, it focuses on clarity, explainability, and offline functionality.
